@@ -22,8 +22,6 @@ Istanbul Airbnb Data Analysis With Machine Learning Algorithms
 
 
 
-CSE 585 Term Project
-
 
 
 
